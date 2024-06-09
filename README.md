@@ -1,5 +1,5 @@
 # Simple RAG ChatBot for answering questions about sunnah
-### (Tirmidhi Correct Book version only)
+### (Bukhari Correct Book version only)
 
 ## Prerequistes
 - Python `12.13.1`
